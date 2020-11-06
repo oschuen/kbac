@@ -1,0 +1,10 @@
+*
+!*/
+/eclipse
+!.gitignore
+!*.cpp
+!*.h
+!*.md
+!CMakeLists.txt
+!*.cmake
+

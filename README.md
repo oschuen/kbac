@@ -26,4 +26,4 @@ Shows how multiple projects can be aggregated to one with sub-projects.
 
 All Content is under the  CC BY-SA 4.0 Attribution-ShareAlike 4.0 International license.
 
-All Sources are under licensed under the Apache License, Version 2.0
+All Sources are licensed under the Apache License, Version 2.0

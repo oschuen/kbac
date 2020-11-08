@@ -18,6 +18,10 @@ __[Usa a library](LibUsage/README.md)__
 
 Shows how to use the library created in the example before
 
+__[Multi Project](MultiProject/README.md)__
+
+Shows how multiple projects can be aggregated to one with sub-projects.
+
 #### Licenses
 
 All Content is under the  CC BY-SA 4.0 Attribution-ShareAlike 4.0 International license.

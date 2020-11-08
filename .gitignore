@@ -7,4 +7,6 @@
 !*.md
 !CMakeLists.txt
 !*.cmake
+build/
+local/
 

@@ -1,6 +1,6 @@
 # Include Lib from source
 
-If this library shall be either used from source or from install location, it has to 
+If this library shall be either used from source or from install location, it has to be
 possible to make a 
 
     find_package(hello)

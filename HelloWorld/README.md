@@ -77,4 +77,5 @@ After which open Eclipse, right click on hte Project Explorer and choose Import/
 
 **Note: its recomended to create the Eclipse Project in a sibbling folder of your project, not in a subfolder, parent folder or even the same folder. Eclipse will cause a lot of issues in that case.** 
 
+---
 This content is under the  CC BY-SA 4.0 Attribution-ShareAlike 4.0 International license 

@@ -25,4 +25,6 @@ That's it.
 
 The environment variable CMAKE_PREFIX_PATH tells CMake where to search for \*Config.cmake 
 files. 
- 
+
+---
+This content is under the  CC BY-SA 4.0 Attribution-ShareAlike 4.0 International license  

@@ -14,6 +14,10 @@ __[Install a library](HelloLib/README.md)__
 
 Shows how to install a static library for later use in other projects
 
+__[Usa a library](LibUsage/README.md)__
+
+Shows how to use the library created in the example before
+
 #### Licenses
 
 All Content is under the  CC BY-SA 4.0 Attribution-ShareAlike 4.0 International license.

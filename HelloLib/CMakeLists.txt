@@ -18,8 +18,8 @@ install(TARGETS hello-lib EXPORT helloTargets
 	INCLUDES DESTINATION include
 	)
 
-install (DIRECTORY include DESTINATION include/hello-lib FILES_MATCHING PATTERN "*.h")
-install (DIRECTORY include DESTINATION include/hello-lib FILES_MATCHING PATTERN "*.hpp") 
+install (DIRECTORY include/ DESTINATION include/hello-lib FILES_MATCHING PATTERN "*.h")
+install (DIRECTORY include/ DESTINATION include/hello-lib FILES_MATCHING PATTERN "*.hpp") 
 
 install (EXPORT helloTargets 
     FILE helloTargets.cmake
@@ -30,3 +30,5 @@ install (EXPORT helloTargets
 install (FILES "helloConfig.cmake"
 	DESTINATION lib/cmake/hello
 	)
+
+add_library(example::hello-lib ALIAS hello-lib)

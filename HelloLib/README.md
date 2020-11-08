@@ -50,8 +50,8 @@ One word to packages and targets.
 </table>
  
 
-    install (DIRECTORY include DESTINATION include/hello-lib FILES_MATCHING PATTERN "*.h")
-    install (DIRECTORY include DESTINATION include/hello-lib FILES_MATCHING PATTERN "*.hpp")
+    install (DIRECTORY include/ DESTINATION include/hello-lib FILES_MATCHING PATTERN "*.h")
+    install (DIRECTORY include/ DESTINATION include/hello-lib FILES_MATCHING PATTERN "*.hpp")
 
 installs all header to the install-location. The folder must be the same as in target_include_directories.
 

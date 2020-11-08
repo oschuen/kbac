@@ -1,10 +1,10 @@
 # Multiple projects in one Aggregate
 
-Splitting up software into multipr sub-projects is always a good idea. This allows 
+Splitting up software into multi sub-projects is always a good idea. This allows 
 you to easily reuse parts of it in other projects and forces you to think about interfaces 
 between different parts of your software. Setting up a multi project with CMake is 
-an easy thing, one understood how it works. Many articles on the internet show solutions 
-for it. These are my 20ct for it:
+an easy thing, once understood how it works. Many articles on the internet show solutions 
+for it. These are my 20ct about it:
 
 ## Aggregate CMakeLists.txt 
 

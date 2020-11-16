@@ -22,6 +22,10 @@ __[Multi Project](MultiProject/README.md)__
 
 Shows how multiple projects can be aggregated to one with sub-projects.
 
+__[Dynamic Project](DynamicProject/README.md)__
+
+Shows how dependent packages can be included dynamically.  
+
 #### Licenses
 
 All Content is under the  CC BY-SA 4.0 Attribution-ShareAlike 4.0 International license.

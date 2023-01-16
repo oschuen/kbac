@@ -26,6 +26,10 @@ __[Dynamic Project](DynamicProject/README.md)__
 
 Shows how dependent packages can be included dynamically.  
 
+__[Use GTest](UseGTest/README.md)__
+
+Shows how to integrate GTest and how to make tests available for build targets.
+
 #### Licenses
 
 All Content is under the  CC BY-SA 4.0 Attribution-ShareAlike 4.0 International license.

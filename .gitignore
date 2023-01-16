@@ -4,6 +4,7 @@
 !.gitignore
 !*.cpp
 !*.h
+!*.hpp
 !*.md
 !CMakeLists.txt
 !*.cmake
